@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Miguel Dias 👋
 
-<!--
-**migueldsbm-spec/migueldsbm-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em Python, automação e backend
+🚀 Atualmente estudando APIs REST, automações e desenvolvimento web
+📚 Sempre buscando evoluir minhas habilidades em tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Git & GitHub
+* Selenium
+* BeautifulSoup
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 Automação para WhatsApp
+🔹 Web Scraping com Python
+🔹 API REST com Python
+🔹 Site modelo PetShop
+🔹 Automações Web com Selenium
+
+---
+
+## 📫 Contato
+
+* LinkedIn: SEU LINK
+* Email: SEU EMAIL
+
+---
+
+⭐ Sempre aprendendo e construindo novos projetos.
