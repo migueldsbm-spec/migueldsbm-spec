@@ -25,9 +25,7 @@ Busco oportunidades para crescer profissionalmente na área de tecnologia, aplic
 # 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql,selenium"/>
 </p>
 
 ---
@@ -45,7 +43,7 @@ Busco oportunidades para crescer profissionalmente na área de tecnologia, aplic
 # 📫 Contato
 
 📧 [migueldsbm@gmail.com](mailto:migueldsbm@gmail.com)
-💼 https://www.linkedin.com/in/miguel-dias-526488407/
+💼 <a href="https://www.linkedin.com/in/miguel-dias-526488407/">LinkedIn</a>
 
 ---
 
@@ -53,8 +51,18 @@ Busco oportunidades para crescer profissionalmente na área de tecnologia, aplic
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueldsbm-spec&show_icons=true&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=migueldsbm-spec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldsbm-spec&layout=compact&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldsbm-spec&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=migueldsbm-spec&theme=tokyo-night"/>
 
 </div>
