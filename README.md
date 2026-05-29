@@ -24,14 +24,11 @@ Busco oportunidades para crescer profissionalmente na área de tecnologia, aplic
 
 # 🚀 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge\&logo=selenium)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql"/>
+
+</p>
 
 ---
 
@@ -47,13 +44,17 @@ Busco oportunidades para crescer profissionalmente na área de tecnologia, aplic
 
 # 📫 Contato
 
-📧 Seu Email
-💼 Seu LinkedIn
+📧 [migueldsbm@gmail.com](mailto:migueldsbm@gmail.com)
+💼 https://www.linkedin.com/in/miguel-dias-526488407/
 
 ---
 
 # 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migueldsbm-spec\&show_icons=true\&theme=dark)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueldsbm-spec\&layout=compact\&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueldsbm-spec&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldsbm-spec&layout=compact&theme=github_dark"/>
+
+</div>
